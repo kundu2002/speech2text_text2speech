@@ -1,0 +1,3 @@
+# This is a placeholder for a NumPy binary file (test_audio.npy)
+# In your actual deployment, you would replace this with a real .npy file containing sample audio data
+# The actual binary file isn't represented here, but you would need to create one or use an existing audio sample
